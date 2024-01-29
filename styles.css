@@ -5,3 +5,10 @@
     font-weight: 100;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#Ftr{
+    font-family: Arial;
+    font-weight: 300;
+    color: whitesmoke;
+    background-color: black;
+}
